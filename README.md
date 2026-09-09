@@ -162,8 +162,11 @@ Indian regulatory data isn't a clean corpus. It's scattered across SEBI, RBI, MC
 ## 🏆 Recognition
 
 ![](https://img.shields.io/badge/🥈_2nd_Place-NSG_DIGIRakshak_(213%2B_teams)-2EA3F2?style=for-the-badge)
+<br>
 ![](https://img.shields.io/badge/🎯_Top_50-National_Entrepreneurship_Challenge-F2B02E?style=for-the-badge)
+<br>
 ![](https://img.shields.io/badge/🌊_SIH-Coastal_Monitoring_Drone-27AE60?style=for-the-badge)
+
 
 <br>
 
