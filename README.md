@@ -17,7 +17,7 @@
 
 ## 🧭 What I Do
 
-I build AI systems end-to-end — model to deployment. No orphaned notebooks. Cyber Rakshak is live in production. At my last role, I owned the pipeline that cut deployment time from hours to minutes.
+I build AI systems end-to-end — from model to deployment. Cyber Rakshak is live, handling real citizen reports. At ATRI, I owned the pipeline that cut deployment time from hours to minutes. I care about shipping things that actually run in production, not just proving a concept works.
 
 <br>
 
